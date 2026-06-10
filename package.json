@@ -1,0 +1,23 @@
+{
+  "name": "@icons8/3d-kit",
+  "version": "1.0.0",
+  "description": "Free 3D illustration pack by Icons8 — business, finance, and e-commerce objects in clean 3D style",
+  "keywords": [
+    "illustrations",
+    "illustration pack",
+    "3d",
+    "icons8",
+    "free",
+    "png",
+    "business",
+    "finance",
+    "e-commerce"
+  ],
+  "homepage": "https://icons8.com/illustrations/style--3d-kit",
+  "license": "SEE LICENSE IN README.md",
+  "author": "Icons8 <support@icons8.com> (https://icons8.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icons8/3d-kit"
+  }
+}
